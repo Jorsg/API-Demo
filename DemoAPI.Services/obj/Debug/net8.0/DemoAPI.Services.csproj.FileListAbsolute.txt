@@ -1,0 +1,17 @@
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Services.deps.json
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Services.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Services.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.AssemblyInfoInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.AssemblyInfo.cs
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.csproj.CoreCompileInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\refint\DemoAPI.Services.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\ref\DemoAPI.Services.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Common.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Repositories.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Repositories.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Services\bin\Debug\net8.0\DemoAPI.Common.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI.Services.csproj.AssemblyReference.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Services\obj\Debug\net8.0\DemoAPI..720D03D3.Up2Date

@@ -1,0 +1,14 @@
+D:\Repos\repos\DemoAPI\DemoAPI.Model\bin\Debug\net8.0\DemoAPI.Common.deps.json
+D:\Repos\repos\DemoAPI\DemoAPI.Model\bin\Debug\net8.0\DemoAPI.Common.runtimeconfig.json
+D:\Repos\repos\DemoAPI\DemoAPI.Model\bin\Debug\net8.0\DemoAPI.Common.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Model\bin\Debug\net8.0\DemoAPI.Common.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.csproj.AssemblyReference.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.AssemblyInfoInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.AssemblyInfo.cs
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.csproj.CoreCompileInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\refint\DemoAPI.Common.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\DemoAPI.Common.genruntimeconfig.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Model\obj\Debug\net8.0\ref\DemoAPI.Common.dll

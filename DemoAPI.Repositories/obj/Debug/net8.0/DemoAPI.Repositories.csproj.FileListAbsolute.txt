@@ -1,0 +1,15 @@
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\bin\Debug\net8.0\DemoAPI.Repositories.deps.json
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\bin\Debug\net8.0\DemoAPI.Repositories.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\bin\Debug\net8.0\DemoAPI.Repositories.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\bin\Debug\net8.0\DemoAPI.Common.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\bin\Debug\net8.0\DemoAPI.Common.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.csproj.AssemblyReference.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.AssemblyInfoInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.AssemblyInfo.cs
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.csproj.CoreCompileInputs.cache
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI..FBD9626E.Up2Date
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\refint\DemoAPI.Repositories.dll
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\DemoAPI.Repositories.pdb
+D:\Repos\repos\DemoAPI\DemoAPI.Repositories\obj\Debug\net8.0\ref\DemoAPI.Repositories.dll
